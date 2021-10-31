@@ -16,7 +16,7 @@ iframe{
     height: 350px;
 }
 div.cover{
-    background: url(cover_overlay.png) no-repeat center/100% 100%, url(cover.jpg) no-repeat center/cover;
+    background: url(../images/cover_overlay.png) no-repeat center/100% 100%, url(../images/cover.jpg) no-repeat center/cover;
     height: 360px;
     position: relative;
 }
@@ -82,12 +82,12 @@ a.button_contact:hover{
     overflow: auto;
 }
 div.section_grise1{
-    background: url(triangle2white.svg) no-repeat center bottom -1px/100%;
+    background: url(../images/triangle2white.svg) no-repeat center bottom -1px/100%;
     background-color: var(--color2);
     padding-bottom: 70px;
 }
 div.section_grise2{
-    background: url(triangle1white.svg) no-repeat center top/100%;
+    background: url(../images/triangle1white.svg) no-repeat center top/100%;
     background-color: var(--color2);
     padding-top: 90px;
 }
@@ -160,7 +160,7 @@ p.frame-title{
 
 div.portfolio_header{
     height: 90px;
-    background: url(header.jpg) no-repeat center top/cover;
+    background: url(../images/header.jpg) no-repeat center top/cover;
     position: relative;
 }
 .cover_portfolio {
